@@ -21,7 +21,7 @@
         <!--mybatis 版本-->
         <mybatis.version>3.4.6</mybatis.version>
         <!--mysql connector版本-->
-        <mysql.version>5.1.32</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
     </properties>
 
     <dependencies>
