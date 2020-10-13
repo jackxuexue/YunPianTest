@@ -17,7 +17,7 @@
         <!--云片版本-->
         <yunpian.version>1.2.7</yunpian.version>
         <!--junit版本-->
-        <junit.version>4.12</junit.version>
+        <junit.version>4.13.1</junit.version>
         <!--mybatis 版本-->
         <mybatis.version>3.4.6</mybatis.version>
         <!--mysql connector版本-->
